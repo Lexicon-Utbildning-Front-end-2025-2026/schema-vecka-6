@@ -32,14 +32,14 @@ Vi introducerar konceptet API:er och börjar hämta extern data till vår applik
 
 ## 📅 Tisdag
 
-Vi flyttar logiken till servern och tittar på "Component Level Data Access".
+Vi byter källa för våra karaktärer från json till API
 
 ### Mål för dagen
 
-* Server Fetch: Hämta data direkt i dina Server Components (istället för `useEffect` på klienten)
-* Component Level Data Access: Hämta data där den behövs, istället för att skicka props genom hela appen
-* Hantera fel: Visa `notFound` om API:et inte hittar resursen
-* **Extra:** Dynamisk metadata (t.ex. att sidans titel blir produktens namn)
+* Server Fetch: Hämta data med fetch
+* Lite om felhantering (try/catch och state)
+* Hur man kan tänka kring logig och lager när det gäller fetch
+* Om vi hinner: Dynamisk metadata (t.ex. att sidans titel blir produktens namn) och/eller streaming med suspense
 
 ### Läsning
 
@@ -48,8 +48,6 @@ Vi flyttar logiken till servern och tittar på "Component Level Data Access".
 * Hantera Not Found programmatiskt - [https://nextjs.org/docs/app/api-reference/functions/not-found](https://nextjs.org/docs/app/api-reference/functions/not-found)
 
 ### Övningar
-
-* Reflektera din kod från måndagen: Flytta datahämtningen till Server Components.
 * Byt ut hårdkodade kort mot data från API:et.
 * Implementera en kontroll: Om en produkt/karaktär inte finns i API:et ska användaren skickas till en 404-sida.
 * (Valfritt) Lägg till `generateMetadata` för detaljsidorna.
