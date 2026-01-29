@@ -23,6 +23,21 @@ Vi introducerar konceptet API:er och börjar hämta extern data till vår applik
 * Om REST (översiktligt) - [https://aws.amazon.com/what-is/restful-api/](https://aws.amazon.com/what-is/restful-api/)
 * Om GraphQL (översiktligt) - [https://graphql.org/learn/](https://graphql.org/learn/)
 
+### Slides
+
+* [API:er](https://docs.google.com/presentation/d/1xHPIuuKB4ehC8Jdzpvm3PeaD2NWPmGQI1pvHfEzxdsQ/edit?usp=sharing)
+
+### Bra att ha-länkar från föreläsningen
+
+* [PokéAPI (REST)](https://pokeapi.co/)
+* [PokéAPI (GraphQL)](https://beta.pokeapi.co/graphql/console)
+* [Hoppscotch](https://hoppscotch.io/)
+* [Swagger](https://api.escuelajs.co/docs#/products/ProductsController_getProduct)
+
+### Repo från föreläsningen
+
+* [Lektion 2 feb]() 
+
 ### Övningar
 
 * Bygg upp grunden för API-projektet "Shop" (eller Futurama).
