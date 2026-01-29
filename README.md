@@ -33,6 +33,7 @@ Vi introducerar konceptet API:er och börjar hämta extern data till vår applik
 * [PokéAPI (GraphQL)](https://beta.pokeapi.co/graphql/console)
 * [Hoppscotch](https://hoppscotch.io/)
 * [Swagger](https://api.escuelajs.co/docs#/products/ProductsController_getProduct)
+* [Exempel på olika API:er](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ### Repo från föreläsningen
 
