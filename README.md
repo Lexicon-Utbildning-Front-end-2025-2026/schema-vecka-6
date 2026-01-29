@@ -54,7 +54,6 @@ Vi byter källa för våra karaktärer från json till API
 
 * Server Fetch: Hämta data med fetch
 * Lite om felhantering (try/catch och state)
-* Hur man kan tänka kring logig och lager när det gäller fetch
 * Om vi hinner: Dynamisk metadata (t.ex. att sidans titel blir produktens namn) och/eller streaming med suspense
 
 ### Läsning
