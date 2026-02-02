@@ -38,12 +38,13 @@ Vi introducerar konceptet API:er och börjar hämta extern data till vår applik
 
 ### Repo från föreläsningen
 
-* [Lektion 2 feb]() 
+* [Lektion 2 feb](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-2-feb/) 
 
 ### Övningar
 
 * Bygg upp grunden för API-projektet "Shop" (eller Futurama).
 * Skapa en komponent som hämtar en lista med data från ett öppet API och renderar ut det på sidan.
+* [Veckans övning i helhet](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/ovning-modern-store)
 
 ---
 
