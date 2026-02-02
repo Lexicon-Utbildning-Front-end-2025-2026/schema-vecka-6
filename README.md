@@ -16,6 +16,7 @@ Vi introducerar konceptet API:er och börjar hämta extern data till vår applik
 * Introduktion till "The Shop" (eller Futurama) – vi skapar ett projekt för att visa produkter/karaktärer
 * Kunna hämta data (fetch) och visa upp det i komponenter
 * Förstå hur data flödar från en extern källa till vårt gränssnitt
+* Lite om felhantering (try/catch och state)
 
 ### Läsning
 
@@ -51,20 +52,16 @@ Vi introducerar konceptet API:er och börjar hämta extern data till vår applik
 Vi byter källa för våra karaktärer från json till API
 
 ### Mål för dagen
-
 * Server Fetch: Hämta data med fetch
-* Lite om felhantering (try/catch och state)
 * Om vi hinner: Dynamisk metadata (t.ex. att sidans titel blir produktens namn) och/eller streaming med suspense
 
 ### Läsning
 
 * Data Fetching Patterns - [https://nextjs.org/docs/app/building-your-application/data-fetching/patterns](https://nextjs.org/docs/app/building-your-application/data-fetching/patterns)
 * Generating Metadata - [https://nextjs.org/docs/app/api-reference/functions/generate-metadata](https://nextjs.org/docs/app/api-reference/functions/generate-metadata)
-* Hantera Not Found programmatiskt - [https://nextjs.org/docs/app/api-reference/functions/not-found](https://nextjs.org/docs/app/api-reference/functions/not-found)
 
 ### Övningar
 * Byt ut hårdkodade kort mot data från API:et.
-* Implementera en kontroll: Om en produkt/karaktär inte finns i API:et ska användaren skickas till en 404-sida.
 * (Valfritt) Lägg till `generateMetadata` för detaljsidorna.
 
 ---
