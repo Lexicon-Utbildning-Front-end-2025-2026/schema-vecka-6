@@ -98,12 +98,15 @@ APL-DAG (Arbetsplatsförlagt lärande)
 
 ## 📅 Fredag
 
-APL-uppföljning och kod-reflektion.
+APL-uppföljning.
 
 ### Mål för dagen
 
+I stället för en vanlig Code Review kör vi uppföljning av APL-dagen idag.
+Först i grupperna, och sedan i helklass.
 
-**Frågor för Code Review:**
+Här är uppgifterna: - [https://github.com/Lexicon-Utbildning-Front-end-2025-2026/APL-dags-fragor](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/APL-dags-fragor)
+
 
 ### Övningar
 
